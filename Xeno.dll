@@ -70,7 +70,7 @@ local libs = {
 if script.Name == "VRNavigation" then
 	StarterGui:SetCore("SendNotification", {
 		Title = "[Injected]",
-		Text = "Loaded Mirus ."
+		Text = "Succesfully Injected Nova."
 	})
 end
 
